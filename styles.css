@@ -1,0 +1,61 @@
+html{
+    font-size: 10px;
+}
+main{
+  padding: 20px;
+  text-align: center;
+  margin: 0;
+  background-color: #f3f3f3;
+  border-radius: 8px;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+
+  color: #333;
+}
+@media (max-width: 460px){
+  main{
+    margin: 0;
+  }
+}
+h1{
+  font-size: 4rem;
+  font-weight: bold;
+}
+.pic{
+  background-color: #FFFFFF;
+  padding: 10px;
+  margin: 0;
+}
+#img-caption{
+  margin: 15px 0px 5px 0px;
+}
+ul{
+max-width: 550px;
+margin: 0 auto 50px auto;
+line-height: 1.6;
+text-align: justify;
+}
+li{
+
+  margin: 16px 0;
+}
+.quote{
+max-width: 545px;
+margin: 0 auto 50px auto;
+text-align: left;
+font-style: italic;
+}
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
